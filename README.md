@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/johncoder/johncoder/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/johncoder/johncoder/main/light.svg">
+  <img alt="Profile header" src="[https://raw.githubusercontent.com/johncoder/johncoder/main/light.svg](https://raw.githubusercontent.com/dev-rubel-bd/dev-rubel-bd/refs/heads/main/dark%20(1).svg)">
+</picture>
 ## Hi there 👋
 
 <!--
