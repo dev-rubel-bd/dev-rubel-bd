@@ -4,16 +4,15 @@
   <img alt="Profile header" src="https://raw.githubusercontent.com/dev-rubel-bd/dev-rubel-bd/main/light.svg">
 </picture>
 
-### 👋 Hi, I'm Rubel — a Web Developer from Rangpur, Bangladesh
+### 👋 Hi,Web Developer from Rangpur, Bangladesh, focused on building clean and functional web 
+applications using JavaScript, PHP, and modern frameworks.
 
-- 🔭 Currently building **[Devluma](https://github.com/dev-rubel-bd/devluma)**
+- ♥️ I enjoy programming and sharing knowledge
 - 🌱 Exploring new tools in web development
 - 💬 Ask me about HTML, CSS, JavaScript & PHP
-- 📫 Reach me on [Facebook](https://www.facebook.com/dev.rubel404/)
+- 📫 Reach me on [Gmail](dev.rubel404@gmail.com)
 
 <br>
-
-### 🛠️ Tech Stack
 
 ### 🛠️ Skill
 
@@ -36,6 +35,14 @@
 
 <br>
 
+### 🤝 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubel440/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dev.rubel404/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.rubel404@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801760700289)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-rubel-bd)
+
 ### 📊 GitHub Stats
 
-![Rubel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-rubel-bd&show_icons=true&theme=tokyonight)
+![Rubel's GitHub stats](![Rubel's GitHub stats](https://github-readme-stats.jasikpark.workers.dev/api?username=dev-rubel-bd&show_icons=true&theme=tokyonight))
