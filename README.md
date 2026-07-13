@@ -1,9 +1,9 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-rubel-bd/dev-rubel-bd/refs/heads/main/dark%20(1).svg">
-  <img alt="Profile header" src="https://raw.githubusercontent.com/dev-rubel-bd/dev-rubel-bd/refs/heads/main/dark%20(1).svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-rubel-bd/dev-rubel-bd/refs/heads/main/dark%20(5).svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-rubel-bd/dev-rubel-bd/refs/heads/main/light.svg">
+  <img alt="Profile header" src="https://raw.githubusercontent.com/dev-rubel-bd/dev-rubel-bd/main/light.svg">
 </picture>
 
-## Hi there 👋
 
 <!--
 **dev-rubel-bd/dev-rubel-bd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
