@@ -1,6 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-rubel-bd/dev-rubel-bd/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-rubel-bd/dev-rubel-bd/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-rubel-bd/dev-rubel-bd/refs/heads/main/dark%20(1).svg">
   <img alt="Profile header" src="https://raw.githubusercontent.com/dev-rubel-bd/dev-rubel-bd/refs/heads/main/dark%20(1).svg">
 </picture>
 
