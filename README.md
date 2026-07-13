@@ -4,7 +4,7 @@
   <img alt="Profile header" src="https://raw.githubusercontent.com/dev-rubel-bd/dev-rubel-bd/main/light.svg">
 </picture>
 
-👋 Hi,Web Developer from Rangpur, Bangladesh, focused on building clean and functional web 
+👋 Hi,I am a Web Developer from Rangpur, Bangladesh, focused on building clean and functional web 
 applications using JavaScript, PHP, and modern frameworks.
 
 - ♥️ I enjoy programming and sharing knowledge
